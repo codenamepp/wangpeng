@@ -1,0 +1,23 @@
+body{
+
+    /* background: -moz-linear-gradient(top, #000000 0%, #ffffff 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#000000), color-stop(100%,#ffffff));
+    background: -webkit-linear-gradient(top, #000000 0%,#ffffff 100%);
+    background: -o-linear-gradient(top, #000000 0%,#ffffff 100%);
+    background: -ms-linear-gradient(top, #000000 0%,#ffffff 100%); */
+    background: linear-gradient(to top, #405974 0%,#84AF9B 50%);
+}
+.jumbotron{
+    background-color:#84AF9B;
+}
+@media screen and (min-width: 992px){
+    .myhigh{
+        height: 980px;
+    }
+}
+.mypadding{
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
