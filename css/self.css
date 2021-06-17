@@ -1,24 +1,4 @@
-/* .bg {
-    background: url(../images/bag.jpg)  no-repeat center ;
-    height: 880px;
-    text-align: center;
-    line-height: 600px;
-    background-size:cover;
-    margin: 0px;
-    
-}
-.bg-blur {
-    float: left;
-    width: 100%;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    -webkit-filter: blur(5px);
-    -moz-filter: blur(5px);
-    -o-filter: blur(5px);
-    -ms-filter: blur(5px);
-    filter: blur(5px);
-} */
+
 body{
 
     background: -moz-linear-gradient(top, #000000 0%, #ffffff 100%);
@@ -45,6 +25,4 @@ body{
 .mycolor{
     color: antiquewhite;
 }
-/* .mygroup{
-    background-color: blanchedalmond;
-} */
+
